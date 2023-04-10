@@ -19,6 +19,8 @@ We have saved all csv files under the data folder. Some of the csv files, we cle
 Our main project is under the project folder, under suicide folder. All of the work related to depression data is done under Depression.ipynb, and the suicide data is under Suicide.ipynb. Suicide_Depression.ipynb was added to look for relationship between depression rates and suicide rates.
 All the graphs we have created have been saved under images folder. 
 
+For the graphs used to create our animated plots, see Creating_Gif_Data. Each folder is labeled under its respected graph. The csv used to create the graphs is under gif for project. Code to create the indivisual plots is under Code for gif.ipynb
+
 Project Summary
 Analysis of suicide and depression rates by US states to observe if they are related to the level of physical activity of the population for the years 2018 to 2020.
 
@@ -30,8 +32,13 @@ Research questions we wanted to answer
 Observation
 Both depression and suicide rates shared similar pattern for years 2018, 2019, 2020
 Both depression and suicide rates differ greatly by states in 2020
-The highest depression rates were seen in states of West Virginia, Kentucky, and Tennessee whereas the lowest rates were shown in states of Hawaii, California, and Florida in 2020
-The highest suicide rates were seen in states of Wyoming, Alaska, and Montana, whereas the lowest rates were shown in states of New Jersey, New York, and Massachusetts in 2020
+
+The highest depression rates were seen in West Virginia, Kentucky, Tennessee, Alabama, and Arkansas. Whereas, the lowest rates were shown in the states of Hawaii, California, Florida, Illinois, and New Jersey in 2020.
+
+
+The highest suicide rates were seen in the states of Wyoming, Alaska, Montana, New Mexico, and Idaho. Whereas the lowest rates were shown in the states of New Jersey, New York, and Massachusetts, Rhode Island and Maryland in 2020
+New Jersey is the only state with the lowest depression and suicide rates.
+
 The highest physical activity rates were seen in states of Kentucky, Mississippi, and Arkansas whereas the lowest rates were shown in states of Utah, Colorado, and Washington in 2020
 Physical inactivity does not show an impact on depression rates in adults living in the US for 2020
 Physical inactivity does not show an impact on suicide rates in adults living in the US for 2020
