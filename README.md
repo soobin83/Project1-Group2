@@ -19,16 +19,34 @@ We have saved all csv files under the data folder. Some of the csv files, we cle
 Our main project is under the project folder, under suicide folder. All of the work related to depression data is done under Depression.ipynb, and the suicide data is under Suicide.ipynb. Suicide_Depression.ipynb was added to look for relationship between depression rates and suicide rates.
 All the graphs we have created have been saved under images folder. 
 
+Project Summary
+Analysis of suicide and depression rates by US states to observe if they are related to the level of physical activity of the population for the years 2018 to 2020.
+
+Research questions we wanted to answer
+1) How do depression and suicide rates differ by states
+2) which states have the highest or lowest suicide rates, depression, physical activity rates
+3) If there is any correlation between the physical activity and depression/suicide rates
+
+Observation
+Both depression and suicide rates shared similar pattern for years 2018, 2019, 2020
+Both depression and suicide rates differ greatly by states in 2020
+The highest depression rates were seen in states of West Virginia, Kentucky, and Tennessee whereas the lowest rates were shown in states of Hawaii, California, and Florida in 2020
+The highest suicide rates were seen in states of Wyoming, Alaska, and Montana, whereas the lowest rates were shown in states of New Jersey, New York, and Massachusetts in 2020
+The highest physical activity rates were seen in states of Kentucky, Mississippi, and Arkansas whereas the lowest rates were shown in states of Utah, Colorado, and Washington in 2020
+Physical inactivity does not show an impact on depression rates in adults living in the US for 2020
+Physical inactivity does not show an impact on suicide rates in adults living in the US for 2020
+Physical inactivity does not show an impact on suicide rates in adults living in the US for 2019
+The average physical activity does not show an impact on suicide rates in adults living in the US for 2019
+
+Conclusion
+There was no correlation between depression rate and physical activity nor between suicide rate and physical activity
 
 Mental Health links
 https://www.cdc.gov/suicide/suicide-rates-by-state.html
-
 https://usafacts.org/data/topics/people-society/health/health-risk-factors/depression/
-
 
 Physical Activity links
 https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=PA&islTopic=PA1&go=GO
-
 https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system
 
 
