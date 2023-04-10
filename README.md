@@ -15,6 +15,9 @@ Link to presentation
 
 How-to-Run Guide
 Libraries used: Matplotlib, Pandas, Numpy, Scipy.stats
+We have saved all csv files under the data folder. Some of the csv files, we cleaned up using Microsoft Excel. We used filter, vlookup, and pivot table. The depression csv file is saved as Adults_Depression_S.csv, suicide csv file is saved as Suicide.csv, and physical activity is saved as Physical_activity.csv.
+Our main project is under the project folder, under suicide folder. All of the work related to depression data is done under Depression.ipynb, and the suicide data is under Suicide.ipynb. Suicide_Depression.ipynb was added to look for relationship between depression rates and suicide rates.
+All the graphs we have created have been saved under images folder. 
 
 
 Mental Health links
