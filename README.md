@@ -33,6 +33,8 @@ Observation
 Both depression and suicide rates shared similar pattern for years 2018, 2019, 2020
 Both depression and suicide rates differ greatly by states in 2020
 
+The graph for depression rates by state over the years of 2018-2020 shared a similar pattern, and the graph for suicide rates by state over the years of 2018-2020 also showed a similiar pattern, so we thought it would be safe to choose the year of 2000 as an example to analyze our data when comparing to physical activity/inactivity data.
+
 The highest depression rates were seen in West Virginia, Kentucky, Tennessee, Alabama, and Arkansas. Whereas, the lowest rates were shown in the states of Hawaii, California, Florida, Illinois, and New Jersey in 2020.
 
 
@@ -40,6 +42,7 @@ The highest suicide rates were seen in the states of Wyoming, Alaska, Montana, N
 New Jersey is the only state with the lowest depression and suicide rates.
 
 The highest physical activity rates were seen in states of Kentucky, Mississippi, and Arkansas whereas the lowest rates were shown in states of Utah, Colorado, and Washington in 2020
+
 Physical inactivity does not show an impact on depression rates in adults living in the US for 2020
 Physical inactivity does not show an impact on suicide rates in adults living in the US for 2020
 Physical inactivity does not show an impact on suicide rates in adults living in the US for 2019
